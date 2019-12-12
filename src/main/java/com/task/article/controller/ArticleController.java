@@ -35,6 +35,4 @@ public class ArticleController {
     public List<Article> findAll() {
         return articleService.findAll();
     }
-
-
 }
